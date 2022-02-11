@@ -1,0 +1,13 @@
+Pre-requisite: One should have Java 8 to execute this jar file
+
+1. Execute the freight.jar in command prompt
+java -jar freight.jar
+
+2. Enter the details which is asked ony accountNumber":"123ABC",
+AccountNumber
+digits
+lastUsedIndex
+rangeStart
+rangeEnd
+
+3. Done! , the code wil generate unique Id "Consignment Note Number" and back to the prompt
